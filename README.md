@@ -1,3 +1,3 @@
 # stock-prediction
 
-##URL http://localhost:3000/
+## URL https://anbu1212.github.io/stock-prediction/
